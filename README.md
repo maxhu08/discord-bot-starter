@@ -2,7 +2,7 @@
 
 ## info
 
-A simple template for creating discord bot.
+A simple template for creating a discord bot.
 
 ## getting-started
 
@@ -24,7 +24,7 @@ CLIENT_ID="..."
 
 Go to `https://discord.com/oauth2/authorize?client_id=<CLIENT_ID>&scope=bot&permissions=0` to invite your bot to your server.
 
-Start the bot by running
+Start the bot by running:
 
 ```shell
 bun start
