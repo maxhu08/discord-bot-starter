@@ -22,7 +22,7 @@ BOT_TOKEN="..."
 CLIENT_ID="..."
 ```
 
-Go to `https://discord.com/oauth2/authorize?client_id=<CLIENT_ID>` to invite your bot to your server.
+Go to `https://discord.com/oauth2/authorize?client_id=<CLIENT_ID>&scope=bot&permissions=0` to invite your bot to your server.
 
 Start the bot by running
 
